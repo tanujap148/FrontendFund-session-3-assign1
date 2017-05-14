@@ -1,0 +1,19 @@
+.table1 table{
+	margin:auto;
+	border: solid 2px black;
+	}
+.table2 table{
+	margin:auto;
+	border: solid 2px black
+	}
+.table3 table{
+	margin:auto;
+	border: solid 2px black
+	}
+#t1,#t2,#t3{
+	font-size:18px;
+	font-family:verdana;
+}
+#head3,#head2,#head1{
+	font-size:20px;
+}
